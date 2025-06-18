@@ -22,6 +22,7 @@ Xây dựng hệ thống nhập mật khẩu thông qua UART trên máy tính, h
 - USB to UART (dùng với Tera Term)
 
 ## Cấu trúc thư mục
+```
 Project_vi_xu_ly_20242/
 │
 ├── Application/
@@ -34,7 +35,7 @@ Project_vi_xu_ly_20242/
 ├── Drivers
 │ ├── main.c
 ├── README.md
-
+```
 ## Cách sử dụng
 
 1. Biên dịch và nạp code bằng Keil v5 + ST-Link Utility
@@ -52,12 +53,12 @@ Project_vi_xu_ly_20242/
 - EasyEDA (phần mềm mô phỏng mạch)
 
 ## Nhóm tác giả
-
+```
 Nguyễn Thành Đạt – 20223688
 Nguyễn Hoàng Tiến - 20223741
 Đỗ Mai Phương - 20224349  
 Lớp ETTN - K67 
 Bộ môn Kỹ thuật vi xử lý - 20242
 GVHD: PGS.TS Hoàng Mạnh Thắng
-
+```
 

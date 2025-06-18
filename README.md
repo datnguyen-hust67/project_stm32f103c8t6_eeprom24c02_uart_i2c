@@ -25,14 +25,14 @@ Xây dựng hệ thống nhập mật khẩu thông qua UART trên máy tính, h
 ```
 Project_vi_xu_ly_20242/
 │
-├── Application/
+├── Drivers/
 │ ├── uart.c/h
 │ ├── lcd.c/h
 │ ├── eeprom.c/h
 │ ├── password.c/h
 │ ├── delay.c/h
 │
-├── Drivers
+├── Application/
 │ ├── main.c
 ├── README.md
 ```
